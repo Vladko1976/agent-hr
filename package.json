@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gstack": "github:garrytan/gstack"
+  }
+}
